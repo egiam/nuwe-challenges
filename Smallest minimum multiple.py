@@ -9,6 +9,5 @@ while condition < 20:
     for x in range(1,21):
         if (number % x == 0):
             condition += 1;
-    if condition >= 20:
-        print(number)
     number += 20;
+print(number)
