@@ -2,9 +2,6 @@
 
 # Find the sum of all the primes below two million.
 
-from asyncio import constants
-
-
 sum = 0
 primes = []
 Stop = False
